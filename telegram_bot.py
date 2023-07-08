@@ -1,5 +1,4 @@
 import telebot
-# https://t.me/Probnik11111bot
 bot = telebot.TeleBot("6081314090:AAG2J9m3vYIVR1ax8voGKNSWq2YOyMtlEV0", parse_mode=None)
 money_bank=[100]
 
